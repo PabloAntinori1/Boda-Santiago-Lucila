@@ -1,0 +1,14 @@
+INVITACIÓN DE BODA — CÓDIGO PARA VISUAL STUDIO CODE
+
+1. Abrí la carpeta invitacion-boda-codigo en Visual Studio Code.
+2. Abrí index.html en tu navegador para ver la invitación.
+3. Al final de index.html, buscá "const invitacion" y reemplazá los valores:
+   nombre1, nombre2, fecha, hora, lugar, direccion,
+   enlaceMapa, whatsappConfirmacion y cbu.
+
+Para el mapa, pegá una URL https:// de Google Maps.
+Para WhatsApp, usá código de país y número sin + ni espacios (ej.: 549...).
+Para el botón de regalos, ingresá el CBU completo de 22 dígitos entre comillas.
+
+La imagen flowers.webp tiene que quedar junto a index.html.
+Para publicar después tus cambios, subí ambos archivos a un hosting estático.
